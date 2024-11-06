@@ -67,6 +67,3 @@ Contributions to this project are welcome. If you find any issues or have sugges
 This project is licensed under the [MIT License](LICENSE).
 ```
 
-GitHub Description:
-
-The Resume Analyser Using Streamlit is a web application that helps job applicants analyze their resumes against job descriptions and receive feedback on how their skills and experience align with the requirements. This project utilizes Streamlit, a popular Python library for creating interactive web applications, to provide a user-friendly interface for resume analysis and skill improvement guidance.
