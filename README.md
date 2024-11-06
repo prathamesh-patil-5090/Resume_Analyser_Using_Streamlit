@@ -1,21 +1,18 @@
 # Resume_Analyser_Using_Streamlit
 Here is the `README.md` file for your GitHub Streamlit project "Resume_Analyser_Using_Streamlit":
 
-```markdown
-# Resume Analyser Using Streamlit
-
 ## Description
 
 The Resume Analyser Using Streamlit is a web application built with Streamlit, a popular Python library for creating interactive web applications. This project aims to help job applicants analyze their resumes against job descriptions and receive feedback on how their skills and experience align with the requirements.
 
 The key features of this project include:
 
-1. **Resume Upload**: Users can upload their resumes in PDF format to the application.
-2. **Job Description Input**: Users can enter the job description they are applying for.
-3. **Resume Analysis**: The application analyzes the uploaded resume and the job description to provide insights on the candidate's fit for the role.
-4. **Feedback and Recommendations**: The application provides feedback on the candidate's strengths, weaknesses, and suggestions for improving their resume to better match the job requirements.
-5. **Skill Improvement Guidance**: The application offers guidance on how the candidate can improve their skills and stay up-to-date with the latest programming trends.
-6. **ATS Percentage Match**: The application also provides an estimated percentage match between the candidate's resume and the job description, simulating the functionality of an Applicant Tracking System (ATS).
+1. Resume Upload: Users can upload their resumes in PDF format to the application.
+2. Job Description Input: Users can enter the job description they are applying for.
+3. Resume Analysis: The application analyzes the uploaded resume and the job description to provide insights on the candidate's fit for the role.
+4. Feedback and Recommendations: The application provides feedback on the candidate's strengths, weaknesses, and suggestions for improving their resume to better match the job requirements.
+5. Skill Improvement Guidance: The application offers guidance on how the candidate can improve their skills and stay up-to-date with the latest programming trends.
+6. ATS Percentage Match: The application also provides an estimated percentage match between the candidate's resume and the job description, simulating the functionality of an Applicant Tracking System (ATS).
 
 ## Getting Started
 
