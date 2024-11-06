@@ -1,5 +1,4 @@
 # Resume_Analyser_Using_Streamlit
-Here is the `README.md` file for your GitHub Streamlit project "Resume_Analyser_Using_Streamlit":
 
 ## Description
 
